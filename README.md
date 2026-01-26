@@ -1,4 +1,4 @@
-# 👋 Arkadiusz Słota
+# 🧠✨ Arkadiusz Słota
 
 > **Full-Stack Developer | Inżynier ds. Oprogramowania | Software Architect | AI/ML Enthusiast**
 
