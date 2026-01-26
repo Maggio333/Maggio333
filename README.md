@@ -12,6 +12,36 @@ Cześć, jestem Arkadiusz Słota 👋
 
 **Full-Stack Developer** i **Inżynier ds. Oprogramowania** z **13-letnim doświadczeniem** w programowaniu, w tym **6 lat komercyjnego doświadczenia**. Zaawansowany programista i architekt oprogramowania z pasją do tworzenia systemów AI, Clean Architecture i **nauczania innych**.
 
+## 💻 Używane Języki Programowania
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+## 🛠️ Używane IDE i Narzędzia
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-4A90E2?style=for-the-badge&logo=lmstudio&logoColor=white)
+![Toad for Oracle](https://img.shields.io/badge/Toad%20for%20Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DevOps Toolkit](https://img.shields.io/badge/DevOps%20Toolkit-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+---
+
 **Doświadczenie zawodowe:**
 - 💼 **6 lat komercyjnego doświadczenia** jako Full-Stack Developer
 - 🏭 Praca z **systemami produkcyjnymi i ERP** - ich rozwój i usprawnianie
@@ -53,35 +83,6 @@ Wierzę w **transparentność procesu**, **czystą architekturę**, **SOLID prin
 
 ---
 
-## 💻 Używane Języki Programowania
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white)
-
----
-
-## 🛠️ Używane IDE i Narzędzia
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-4A90E2?style=for-the-badge&logo=lmstudio&logoColor=white)
-![Toad for Oracle](https://img.shields.io/badge/Toad%20for%20Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![DevOps Toolkit](https://img.shields.io/badge/DevOps%20Toolkit-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
----
 
 ## 📊 Podsumowanie Profilu GitHub
 
