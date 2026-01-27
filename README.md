@@ -1,4 +1,4 @@
-# Δ→ Arkadiusz Słota
+# Arkadiusz Słota
 
 > **Full-Stack Developer | Inżynier ds. Oprogramowania | Architekt Oprogramowania | Entuzjasta AI/ML**
 
