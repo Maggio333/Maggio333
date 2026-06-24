@@ -1,6 +1,6 @@
 # Arkadiusz Słota
 
-> **Full-Stack Developer | Inżynier ds. Oprogramowania | Architekt Oprogramowania | Entuzjasta AI/ML**
+> **Full-Stack Developer | Inżynier ds. Oprogramowania | Architekt Oprogramowania | AI/ML | Builder @ SlayerLab**
 
 **13 lat programowania | 6 lat komercyjnego doświadczenia**
 
@@ -11,6 +11,19 @@
 Cześć, jestem Arkadiusz Słota 👋
 
 **Full-Stack Developer** i **Inżynier ds. Oprogramowania** z **13-letnim doświadczeniem** w programowaniu, w tym **6 lat komercyjnego doświadczenia**. Zaawansowany programista i architekt oprogramowania z pasją do tworzenia systemów AI, Clean Architecture i **nauczania innych**.
+
+Od 2026 rozwijam **most między budownictwem a ML**: współtworzę systemy **BIM/IFC z AI dla konstrukcji stalowych**, a równolegle — jako **Builder w [SlayerLab](https://slayer.fabryka.ai/)** (otwarte laboratorium polskiego AI: *od zera, artifacts over claims, honest measurement*) — buduję i badam **modele językowe od prymitywów** ([micro-models](https://github.com/slayerlabs/micro-models): małe GPT trenowane od zera). Kierunek: **dać polskiemu budownictwu jego własny, dedykowany model.**
+
+## 🧭 Podejście Strategiczne
+
+Sposób, w jaki pracuję — niezależnie od projektu:
+- **Dialektyka** — każda nietrywialna decyzja: *Cel → Teza ↔ Antyteza (steel-man) → Synteza*, z **warunkiem obalenia** (testem, który może oblać).
+- **Dwie bramki** — *epistemiczna* (rozumiem, nie powtarzam) + *empiryczna* (pomiar, nie opinia). **Spójność ≠ prawda.**
+- **Artifacts over claims** — held-out, jawny koszt, **publikuję też wyniki negatywne**.
+- **Od prymitywów** — buduję od zera, żeby rozumieć całość (transformer, atencja, tokenizer — ręcznie).
+- **Destylacja warstwowa** — z konkretów wyłuskuję **uniwersalne wzorce** („wędka, nie ryba").
+
+---
 
 ## 💻 Używane Języki Programowania
 
@@ -62,7 +75,7 @@ Cześć, jestem Arkadiusz Słota 👋
 - 🧠 **Uczę się sieci neuronowych** i tworzę systemy rozumowania (TreeReasoningSystem)
 - ⚡ **Wysoka produktywność** - Szybkie przechodzenie od koncepcji do działającego kodu dzięki głębokiemu zrozumieniu architektury i technologii
 - 🔨 **Refaktoryzacja i modernizacja** - Analiza legacy code, ręczna refaktoryzacja oraz wykorzystanie AI do optymalizacji istniejących systemów
-- 🎤 **Certyfikowany Trener Eskadry Bielika** - Dzielę się wiedzą i prowadzę szkolenia z programowania
+- 🎤 **Były trener Eskadry Bielika** - prowadziłem warsztaty z tworzenia agentów AI
 - 📝 **Tworzę materiały edukacyjne z transparentnym procesem nauki** (Rust Od Zera)
 - 🦀 Tworzę aplikacje krytyczne pod względem wydajności w Rust
 
@@ -72,17 +85,25 @@ Wierzę w **transparentność procesu**, **czystą architekturę**, **SOLID prin
 
 ## 🎯 Obecne Priorytety
 
-- 🧠 **Sieci Neuronowe** - System operacyjny dla rozumowania z małą siecią neuronową jako "Manager" i dużym LLM jako "Ekspert"
-- 🎯 **AI Alignment & Personalizacja** - Dostosowywanie asystentów AI do konkretnych potrzeb i zachowań użytkowników
-- 🎲 **Generatory Datasetów AI** - Tworzenie generatorów wysokiej jakości datasetów do finetuningu modeli (syntetyczne datasety z wzorcami SOLID, generatory krzyżówek)
-- 🏛️ **Clean Architecture** - Budowanie skalowalnych, modularnych systemów
-- 🧩 **Systemy AI & RAG** - Zaawansowane systemy AI z pamięcią długoterminową, RAG, lokalne LLM
-- 🦀 **Rust** - Aplikacje krytyczne pod względem wydajności i nauka od zera z transparentnym procesem
-- 🏗️ **Technologie BIM/Budowlane** - Systemy obliczeniowe konstrukcji z plików IFC
-- 🔬 **R&D & Innowacje** - Eksperymentowanie z nowymi technologiami i poszukiwanie innowacyjnych rozwiązań
+- 🔬 **Mikro-modele** - małe modele językowe trenowane **od zera** na CPU; studium *spektrum n-gram → transformer* (jakość ↔ pamięć ↔ obliczenia) — [micro-models](https://github.com/slayerlabs/micro-models)
+- 🏗️ **Model dla budownictwa** - kierunek: dedykowany model językowy pod konstrukcje / BIM / IFC; systemy BIM-AI dla konstrukcji stalowych
+- 🎲 **Generatory datasetów** - wysokiej jakości syntetyczne datasety do finetuningu (z wzorcami, z walidacją)
+- 🧩 **Systemy AI & RAG** - pamięć długoterminowa, lokalne LLM, agenci, ewaluacja
+- 🧭 **Metoda pracy** - dialektyka + dwie bramki + falsyfikowalna ewaluacja jako rdzeń każdego projektu
+- 🏛️ **Clean Architecture & Rust** - skalowalne systemy + aplikacje krytyczne wydajnościowo
 
 ---
 
+
+## 🔥 Pasje
+
+- 🧠 **Rozumieć systemy od środka** - od prymitywów, nie z gotowców; satysfakcja z „aha!", gdy mechanizm staje się jasny
+- 🇵🇱 **Suwerenne polskie AI** - modele i ewaluacje, których nie da się oszukać (SlayerLab)
+- 👥 **Nauczanie z transparentnym procesem** - pokazuję *jak* dochodzę do rozwiązań; uczę przez robienie (Rust Od Zera, mentoring)
+- 🌉 **Most inżynieria ↔ AI** - łączenie budownictwa, oprogramowania i ML w jedną całość
+- 🎼 **Nieoczywiste poligony** - ML na muzyce (notacja ABC), gry jako środowiska decyzyjne — uczyć się na konkretach, których można dotknąć
+
+---
 
 ## 📊 Podsumowanie Profilu GitHub
 
@@ -203,6 +224,6 @@ Wierzę w **transparentność procesu**, **czystą architekturę**, **SOLID prin
 
 **"Buduję zaawansowane systemy, uczę innych i dzielę się wiedzą."**
 
-*Ostatnia aktualizacja: 2026-01-26*
+*Ostatnia aktualizacja: 2026-06-24*
 
 </div>
