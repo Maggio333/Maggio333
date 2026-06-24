@@ -1,6 +1,6 @@
 # Arkadiusz Słota
 
-> **Full-Stack Developer | Inżynier ds. Oprogramowania | Architekt Oprogramowania | Entuzjasta AI/ML**
+> **Full-Stack Developer | Inżynier ds. Oprogramowania | Architekt Oprogramowania | AI/ML | Builder @ SlayerLab**
 
 **13 lat programowania | 6 lat komercyjnego doświadczenia**
 
@@ -11,6 +11,19 @@
 Cześć, jestem Arkadiusz Słota 👋
 
 **Full-Stack Developer** i **Inżynier ds. Oprogramowania** z **13-letnim doświadczeniem** w programowaniu, w tym **6 lat komercyjnego doświadczenia**. Zaawansowany programista i architekt oprogramowania z pasją do tworzenia systemów AI, Clean Architecture i **nauczania innych**.
+
+Od 2026 rozwijam **most między budownictwem a ML**: współtworzę systemy **BIM/IFC z AI dla konstrukcji stalowych**, a równolegle — jako **Builder w [SlayerLab](https://slayer.fabryka.ai/)** (otwarte laboratorium polskiego AI: *od zera, artifacts over claims, honest measurement*) — buduję i badam **modele językowe od prymitywów** ([micro-models](https://github.com/slayerlabs/micro-models): małe GPT trenowane od zera). Kierunek: **dać polskiemu budownictwu jego własny, dedykowany model.**
+
+## 🧭 Podejście Strategiczne
+
+Sposób, w jaki pracuję — niezależnie od projektu:
+- **Dialektyka** — każda nietrywialna decyzja: *Cel → Teza ↔ Antyteza (steel-man) → Synteza*, z **warunkiem obalenia** (testem, który może oblać).
+- **Dwie bramki** — *epistemiczna* (rozumiem, nie powtarzam) + *empiryczna* (pomiar, nie opinia). **Spójność ≠ prawda.**
+- **Artifacts over claims** — held-out, jawny koszt, **publikuję też wyniki negatywne**.
+- **Od prymitywów** — buduję od zera, żeby rozumieć całość (transformer, atencja, tokenizer — ręcznie).
+- **Destylacja warstwowa** — z konkretów wyłuskuję **uniwersalne wzorce** („wędka, nie ryba").
+
+---
 
 ## 💻 Używane Języki Programowania
 
@@ -35,11 +48,12 @@ Cześć, jestem Arkadiusz Słota 👋
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-4A90E2?style=for-the-badge&logo=lmstudio&logoColor=white)
 ![Toad for Oracle](https://img.shields.io/badge/Toad%20for%20Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![DevOps Toolkit](https://img.shields.io/badge/DevOps%20Toolkit-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ---
 
 **Doświadczenie zawodowe:**
@@ -62,7 +76,7 @@ Cześć, jestem Arkadiusz Słota 👋
 - 🧠 **Uczę się sieci neuronowych** i tworzę systemy rozumowania (TreeReasoningSystem)
 - ⚡ **Wysoka produktywność** - Szybkie przechodzenie od koncepcji do działającego kodu dzięki głębokiemu zrozumieniu architektury i technologii
 - 🔨 **Refaktoryzacja i modernizacja** - Analiza legacy code, ręczna refaktoryzacja oraz wykorzystanie AI do optymalizacji istniejących systemów
-- 🎤 **Certyfikowany Trener Eskadry Bielika** - Dzielę się wiedzą i prowadzę szkolenia z programowania
+- 🎤 **Były trener Eskadry Bielika** - prowadziłem warsztaty z tworzenia agentów AI
 - 📝 **Tworzę materiały edukacyjne z transparentnym procesem nauki** (Rust Od Zera)
 - 🦀 Tworzę aplikacje krytyczne pod względem wydajności w Rust
 
@@ -72,29 +86,50 @@ Wierzę w **transparentność procesu**, **czystą architekturę**, **SOLID prin
 
 ## 🎯 Obecne Priorytety
 
-- 🧠 **Sieci Neuronowe** - System operacyjny dla rozumowania z małą siecią neuronową jako "Manager" i dużym LLM jako "Ekspert"
-- 🎯 **AI Alignment & Personalizacja** - Dostosowywanie asystentów AI do konkretnych potrzeb i zachowań użytkowników
-- 🎲 **Generatory Datasetów AI** - Tworzenie generatorów wysokiej jakości datasetów do finetuningu modeli (syntetyczne datasety z wzorcami SOLID, generatory krzyżówek)
-- 🏛️ **Clean Architecture** - Budowanie skalowalnych, modularnych systemów
-- 🧩 **Systemy AI & RAG** - Zaawansowane systemy AI z pamięcią długoterminową, RAG, lokalne LLM
-- 🦀 **Rust** - Aplikacje krytyczne pod względem wydajności i nauka od zera z transparentnym procesem
-- 🏗️ **Technologie BIM/Budowlane** - Systemy obliczeniowe konstrukcji z plików IFC
-- 🔬 **R&D & Innowacje** - Eksperymentowanie z nowymi technologiami i poszukiwanie innowacyjnych rozwiązań
+- 🔬 **Mikro-modele** - małe modele językowe trenowane **od zera** na CPU; studium *spektrum n-gram → transformer* (jakość ↔ pamięć ↔ obliczenia) — [micro-models](https://github.com/slayerlabs/micro-models)
+- 🏗️ **Model dla budownictwa** - kierunek: dedykowany model językowy pod konstrukcje / BIM / IFC; systemy BIM-AI dla konstrukcji stalowych
+- 🎲 **Generatory datasetów** - wysokiej jakości syntetyczne datasety do finetuningu (z wzorcami, z walidacją)
+- 🧩 **Systemy AI & RAG** - pamięć długoterminowa, lokalne LLM, agenci, ewaluacja
+- 🧭 **Metoda pracy** - dialektyka + dwie bramki + falsyfikowalna ewaluacja jako rdzeń każdego projektu
+- 🏛️ **Clean Architecture & Rust** - skalowalne systemy + aplikacje krytyczne wydajnościowo
 
 ---
 
 
-## 📊 Podsumowanie Profilu GitHub
+## 🔥 Pasje
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maggio333&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maggio333&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+- 🧠 **Rozumieć systemy od środka** - od prymitywów, nie z gotowców; satysfakcja z „aha!", gdy mechanizm staje się jasny
+- 🇵🇱 **Suwerenne polskie AI** - modele i ewaluacje, których nie da się oszukać (SlayerLab)
+- 👥 **Nauczanie z transparentnym procesem** - pokazuję *jak* dochodzę do rozwiązań; uczę przez robienie (Rust Od Zera, mentoring)
+- 🌉 **Most inżynieria ↔ AI** - łączenie budownictwa, oprogramowania i ML w jedną całość
+- 🎼 **Nieoczywiste poligony** - ML na muzyce (notacja ABC), gry jako środowiska decyzyjne — uczyć się na konkretach, których można dotknąć
 
 ---
 
-## 📈 Wykres Wkładu
+## 📊 GitHub
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maggio333&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Maggio333&color=58A6FF&style=for-the-badge&label=Wy%C5%9Bwietlenia+profilu" alt="Profile views" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maggio333&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maggio333&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Maggio333&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Maggio333&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maggio333&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" alt="Activity Graph" />
+
+</div>
 
 ---
 
@@ -105,6 +140,7 @@ Wierzę w **transparentność procesu**, **czystą architekturę**, **SOLID prin
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -112,13 +148,22 @@ Wierzę w **transparentność procesu**, **czystą architekturę**, **SOLID prin
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+### Web 3D / Grafika & Sandbox
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![QuickJS](https://img.shields.io/badge/QuickJS-1A1A1A?style=for-the-badge)
+![Pyodide](https://img.shields.io/badge/Pyodide-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### AI/ML
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-FF6B6B?style=for-the-badge&logo=llama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FF6B6B?style=for-the-badge&logo=ollama&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-4A90E2?style=for-the-badge&logo=lmstudio&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge&logo=qdrant&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![transformers.js](https://img.shields.io/badge/transformers.js-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Bazy Danych
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -128,12 +173,21 @@ Wierzę w **transparentność procesu**, **czystą architekturę**, **SOLID prin
 
 ### Chmura i DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Testowanie
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### Budownictwo / Formaty (BIM)
+![IFC](https://img.shields.io/badge/IFC-0D5C9E?style=for-the-badge)
+![DXF](https://img.shields.io/badge/DXF-E51050?style=for-the-badge)
+![SAF](https://img.shields.io/badge/SAF-6E4B9E?style=for-the-badge)
 
 ---
 
@@ -203,6 +257,6 @@ Wierzę w **transparentność procesu**, **czystą architekturę**, **SOLID prin
 
 **"Buduję zaawansowane systemy, uczę innych i dzielę się wiedzą."**
 
-*Ostatnia aktualizacja: 2026-01-26*
+*Ostatnia aktualizacja: 2026-06-24*
 
 </div>
