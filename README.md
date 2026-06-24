@@ -106,17 +106,30 @@ Wierzę w **transparentność procesu**, **czystą architekturę**, **SOLID prin
 
 ---
 
-## 📊 Podsumowanie Profilu GitHub
+## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maggio333&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maggio333&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+<img src="https://komarev.com/ghpvc/?username=Maggio333&color=58A6FF&style=for-the-badge&label=Wy%C5%9Bwietlenia+profilu" alt="Profile views" />
 
----
+<br/><br/>
 
-## 📈 Wykres Wkładu
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maggio333&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maggio333&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maggio333&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Maggio333&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Maggio333&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maggio333&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" alt="Activity Graph" />
+
+</div>
 
 ---
 
